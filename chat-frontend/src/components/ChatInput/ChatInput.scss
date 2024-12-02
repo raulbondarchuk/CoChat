@@ -1,0 +1,61 @@
+.border-none {
+    border: none;
+}
+
+
+.chat-input {
+    display: flex;
+
+    .smile-icon {
+        
+        font-size: 20px;
+
+
+        margin-left: 10px;
+    }
+
+    .input-margin {
+        margin-left: 10px;
+    }
+
+    &__smile-btn {
+        margin-top: 5px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    &__emoji-picker {
+        position: absolute;
+        bottom: 60px;
+        left: 15px;
+        z-index: 1;
+    }
+
+    &__actions {
+
+        display: flex;
+        align-items: center;
+        width: 70px;
+        justify-content: space-between;
+        margin-left: 15px;
+        margin-right: 25px;
+
+        font-size: 20px;
+
+        
+    }
+
+    
+
+    input {
+        height: 40px;
+        padding: 6px 11px 8px;
+        font-size: 14px;
+        border-radius: 5px;
+        &:focus {
+            box-shadow: none;
+            
+        }
+    }
+}
+

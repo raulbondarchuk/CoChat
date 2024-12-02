@@ -1,0 +1,19 @@
+@import '~antd/dist/reset.css';
+@import "~reset-css";
+@import "layouts/chat";
+body {
+    background-color: #f4f7fd;
+}
+
+body, html, #root, .wrapper {
+    height: 100%;
+    color: #202020;
+
+    font-family: sans-serif;
+    line-height: 1.15;
+    font-size: 14px;
+}
+
+* {
+    outline:none;
+}

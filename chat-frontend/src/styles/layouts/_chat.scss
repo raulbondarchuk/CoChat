@@ -1,0 +1,129 @@
+.chat {
+    display: flex;
+    background-color: #fff;
+    width: 1140px;
+    height: 100%;
+    margin: 0 auto;
+
+    border-radius: 20px;
+
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.04204);
+
+    &__sidebar {
+        
+        width: 320px;
+        border-right: 1px solid #f7f7f7;
+
+        &-header {
+            display: flex;
+            justify-content: space-between;
+
+            padding: 21px;
+            height: 58px;
+            border-bottom: 1px solid #f7f7f7;
+            margin-bottom: 20px;
+
+            & > div {
+                i {
+                    display: inline-block;
+                    margin-right: 5px;
+                }
+            }
+
+            span {
+                padding-left: 5px;
+            }
+        }
+
+        
+
+        &-dialogs {
+            height: calc(100% - 135px);
+
+            .dialogs {
+                height: 100%;
+                overflow: auto;
+                &__item {
+                    padding: 10px 20px;
+                    cursor:pointer;
+                    margin-bottom: 0;
+
+                    &:active,
+                    &:hover {
+                        background-color: #f3f7ff;
+                    }
+                }
+            }
+        }
+    }
+
+    
+
+    &__dialog {
+        flex: 1;
+
+        position: relative;
+
+        .ant-empty {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        &-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px;
+            border-bottom: 1px solid #f7f7f7;
+
+            &-center {
+                text-align: center;
+            }
+
+            &-username {
+                display: block;
+                margin-bottom: 5px;
+                font-weight: 600;
+            }
+
+            
+        }
+
+        &-messages {
+            
+            height: calc(100% - 138px);
+        }
+
+        &-input {
+            
+            margin-top: 25px;
+        }
+    }
+}
+
+.action-icon,
+.smile-icon {
+    
+    border: none;
+    opacity: 0.4;
+    cursor: pointer;
+
+    position: relative; 
+    z-index: 1; 
+    transition: transform 0.08s ease;
+    &:hover {
+        opacity: 1;
+    }
+
+    &:active {
+        transform: scale(1.2); 
+    }
+
+}
+
+.action-icon-size {
+    font-size: 20px !important;
+    
+}
