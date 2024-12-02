@@ -1,0 +1,23 @@
+dialogs: 
+- _id
+- author
+- partner
+- created_at, updated_at
+
+message: 
+- _id
+- author
+- partner 
+- text 
+- dialog
+- read
+- created_at, updated_at
+
+users: 
+- _id
+- email 
+- username 
+- passwd (md5)
+- confirmed
+- last_seen
+- confirm_hash (id para confirmar usuario por enlace)

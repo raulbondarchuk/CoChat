@@ -1,0 +1,164 @@
+{
+    "dialogs": [
+      {
+        "_id": "16e68d13b2678d793d340b5fb0c79297d",
+        "text": "Хто я?",
+        "created_at": "Thu Mar 12 2024 13:45:45 GMT+0100",
+        "user": {
+          "_id": "16e68d13b2678d793d340b5fb0c79297d",
+          "username": "Vladímir Zelenski",
+          "avatar": "https://s7d1.scene7.com/is/image/wbcollab/zelensky-2",
+          "isOnline": true
+        }
+      },
+      {
+        "_id": "6e68d13b2678d793d340b5fb0c79297d",
+        "text": "Yo soy el creador del este massenger. Parece mucho a telegram? Puede ser, pero será más chulo.",
+        "created_at": "Thu Mar 13 2024 13:45:45 GMT+0100",
+        "user": {
+            "_id": "6e68d13b2678d793d340b5fb0c79297d",
+            "username": "Raul Gonzalez",
+            "avatar": null,
+            "isOnline": true
+        } 
+      },
+      {
+        "_id": "41b4cc8ffc01aef863dfa8afcbbd0986",
+        "text": "Hola, que tal?",
+        "created_at": "Thu Mar 14 2024 13:45:45 GMT+0100",
+        "user": {
+            "_id": "41b4cc8ffc01aef863dfa8afcbbd0986",
+            "username": "Pepe Fernandez",
+            "avatar": "https://www.barcelona.cat/metropolis/sites/default/files/styles/autor/public/autors_albertos.jpg?itok=FOO1L_aG"
+        } 
+      },
+      {
+        "_id": "e079c8cddf392c639c7e77481717352a",
+        "text": "Irure proident consequat ipsum dolore do Lorem mollit ad sit id. Consequat non exercitation sunt nostrud laborum consequat quis ea. Eiusmod occaecat excepteur do occaecat elit id aliqua dolore deserunt ea.",
+        "created_at": "Wed May 18 1999 16:40:53 GMT+0000 (UTC)",
+        "user": {
+          "_id": "e079c8cddf392c639c7e77481717352a",
+          "username": "Stanton Alford",
+          "avatar": null
+        }
+      },
+      {
+        "_id": "f31af49941293524c86c746c10e72f0d",
+        "text": "Eiusmod commodo velit proident sint enim. Commodo cupidatat laboris anim nisi id dolor fugiat sint adipisicing. Anim exercitation enim consequat duis.",
+        "created_at": "Sun Jun 25 2017 16:15:58 GMT+0000 (UTC)",
+        "user": {
+          "_id": "f31af49941293524c86c746c10e72f0d",
+          "username": "Lenore Vinson",
+          "avatar": null
+        }
+      },
+      {
+        "_id": "2f0405c6a12d20a5acbd91db41c016b8",
+        "text": "Minim ad consectetur consectetur laborum do consequat Lorem nisi mollit ex aute anim consectetur voluptate. Nostrud Lorem velit duis ut esse cillum exercitation occaecat. Adipisicing labore aliqua in ut fugiat labore magna.",
+        "created_at": "Wed Apr 01 1970 14:35:56 GMT+0000 (UTC)",
+        "user": {
+          "_id": "2f0405c6a12d20a5acbd91db41c016b8",
+          "username": "Audrey Lopez",
+          "avatar": null
+        }
+      },
+      {
+        "_id": "24c931d4acbec73f8d5f0265c8f1d413",
+        "text": "Mollit officia amet commodo labore laborum exercitation irure. Excepteur reprehenderit occaecat ipsum nisi consequat duis consectetur mollit occaecat qui officia. Et consequat eiusmod duis eu eiusmod veniam cupidatat mollit laboris est.",
+        "created_at": "Sun Jun 25 2006 06:37:23 GMT+0000 (UTC)",
+        "user": {
+          "_id": "24c931d4acbec73f8d5f0265c8f1d413",
+          "username": "Mona Benton",
+          "avatar": null
+        }
+      }
+    ],
+    "messages": [
+      {
+        "_id": "35ce83ca80a9906817c95cbe0",
+        "text": ":santa: Ea deserunt exercitation sit irure aliqua ea. Nostrud est veniam eiusmod cillum duis exercitation veniam ad. Commodo occaecat veniam tempor ad dolor.",
+        "created_at": "Mon Jul 17 1978 15:23:39 GMT+0000 (UTC)",
+        "user": {
+          "_id": "6e68d13b2678d793d340b5fb0c79297d",
+          "username": "Raul Gonzalez",
+          "avatar": null,
+          "isOnline": true
+        },
+        "dialog": "6e68d13b2678d793d340b5fb0c79297d"
+      },
+      {
+        "_id": "35ce83ca8371d66a6490a6629",
+        "text": "Excepteur voluptate reprehenderit duis duis fugiat reprehenderit consectetur nisi. Anim nulla amet aliquip Lorem culpa. Labore voluptate non Lorem irure adipisicing.",
+        "created_at": "Tue Sep 04 1990 21:13:48 GMT+0000 (UTC)",
+        "user": {
+          "_id": "6e68d13b2678d793d340b5fb0c79297d",
+          "username": "Raul Gonzalez",
+          "avatar": null,
+          "isOnline": true
+        },
+        "dialog": "6e68d13b2678d793d340b5fb0c79297d"
+      },
+      {
+        "_id": "25ce83ca8e64e10b218c412b1",
+        "text": "Est nostrud irure ut cupidatat pariatur qui aliqua excepteur reprehenderit commodo amet. Fugiat dolor cillum esse consequat enim sunt ullamco elit nulla. Dolor elit pariatur in ad nisi sint ea incididunt.",
+        "created_at": "Wed Oct 06 1982 09:45:38 GMT+0000 (UTC)",
+        "user": {
+          "_id": "6e68d13b2678d793d340b5fb0c79297d",
+          "username": "Raul Gonzalez",
+          "avatar": null,
+          "isOnline": true
+        },
+        "dialog": "6e68d13b2678d793d340b5fb0c79297d"
+      },
+      {
+        "_id": "25ce83ca8e64e10b218c412b1",
+        "text": "Est nostrud irure ut cupidatat pariatur qui aliqua excepteur reprehenderit commodo amet. Fugiat dolor cillum esse consequat enim sunt ullamco elit nulla. Dolor elit pariatur in ad nisi sint ea incididunt.",
+        "created_at": "Wed Oct 06 1982 09:45:38 GMT+0000 (UTC)",
+        "user": {
+          "_id": "6e68d13b2678d793d340b5fb0c79297d",
+          "username": "Raul Gonzalez",
+          "avatar": null,
+          "isOnline": true
+        },
+        "dialog": "6e68d13b2678d793d340b5fb0c79297d"
+      },
+      {
+        "_id": "25ce83ca8e64e10b218c412b1",
+        "text": "Hola, que tal? 🙃",
+        "created_at": "Wed Oct 06 1982 09:45:38 GMT+0000 (UTC)",
+        "user": {
+          "_id": "6e68d13b2678d793d340b5fb0c79297d",
+          "username": "Raul Gonzalez",
+          "avatar": null,
+          "isOnline": true
+        },
+        "dialog": "6e68d13b2678d793d340b5fb0c79297d"
+      },
+      {
+        "_id": "25ce83ca8e64e10b218c412b1",
+        "text": "Donde estás? 🤓🤓🤓🤓🤓",
+        "created_at": "Wed Oct 06 1982 09:45:38 GMT+0000 (UTC)",
+        "user": {
+          "_id": "6e68d13b2678d793d340b5fb0c79297d",
+          "username": "Raul Gonzalez",
+          "avatar": null,
+          "isOnline": true
+        },
+        "dialog": "6e68d13b2678d793d340b5fb0c79297d"
+      },
+      {
+        "_id": "45ce83ca8371d66a6490a6629",
+        "text": "Glory to Ukraine!!!",
+        "created_at": "Tue Sep 04 1990 21:13:48 GMT+0000 (UTC)",
+        "user": {
+          "_id": "16e68d13b2678d793d340b5fb0c79297d",
+          "username": "Vladímir Zelenski",
+          "avatar": "https://s7d1.scene7.com/is/image/wbcollab/zelensky-2",
+          "isOnline": true
+        },
+        "dialog": "16e68d13b2678d793d340b5fb0c79297d"
+      }
+      
+    ]
+  }
+
